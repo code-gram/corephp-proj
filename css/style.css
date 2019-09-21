@@ -1,0 +1,23 @@
+
+body {
+    margin: 0;
+    padding:0;
+}
+
+.container {
+    width:80%;
+    margin: 0 auto;
+}
+
+#task-img img{
+    width:400px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin:20px;
+}
+
+.user-ops a{
+    text-decoration: none;
+    font-size: 18px;
+}
